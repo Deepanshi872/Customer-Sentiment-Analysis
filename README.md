@@ -2,12 +2,13 @@
 This repository contains a project for analyzing customer sentiment towards the iPhone 15 128GB model. 
 <br>
 <br>
-Project Overview
+# Project Overview
 <br>
 The goal of this project is to analyze customer sentiment toward the iPhone 15 128GB model based on user reviews. The analysis will focus on extracting valuable insights from customer feedback, identifying the overall sentiment (positive or negative), and providing actionable recommendations for improving the product and customer experience.
 <br>
 <br>
-Objectives
+
+# Objectives
 <br>
 -Collect at least 300 customer reviews for the iPhone 15 128GB model from Flipkart's product page.
 <br>
@@ -20,7 +21,8 @@ Objectives
 -Provide recommendations for product improvement or marketing strategies based on customer sentiment.
 <br>
 <br>
-Tools and Libraries
+
+# Tools and Libraries
 <br>
 -Selenium: For automating the web scraping process and interacting with the Flipkart website.
 <br>
